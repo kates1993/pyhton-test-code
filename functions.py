@@ -43,6 +43,7 @@ def check_all_numbers():
     check_number(-2)
     check_number(3)
     check_number(0)
+    check_number(9)
 
 
 check_all_numbers()
